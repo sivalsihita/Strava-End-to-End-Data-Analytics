@@ -1,0 +1,941 @@
+Id,activity_date,total_steps,calories,very_active_minutes,fairly_active_minutes,lightly_active_minutes,sedentary_minutes,activity_level,activity_intensity_segment,day_type,total_minutes_asleep,total_time_in_bed,sleep_efficiency,sleep_segment
+1503960366,12-04-2016,13162,1985,25,13,328,728,High Activity,Moderate Very-Active,Weekday,327,346,94.5,Less than 6 Hours
+1503960366,13-04-2016,10735,1797,21,19,217,776,High Activity,Moderate Very-Active,Weekday,384,407,94.3,6-8 Hours
+1503960366,14-04-2016,10460,1776,30,11,181,1218,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1503960366,15-04-2016,9762,1745,29,34,209,726,Moderate Activity,Moderate Very-Active,Weekday,412,442,93.2,6-8 Hours
+1503960366,16-04-2016,12669,1863,36,10,221,773,High Activity,High Very-Active,Weekend,340,367,92.6,Less than 6 Hours
+1503960366,17-04-2016,9705,1728,38,20,164,539,Moderate Activity,High Very-Active,Weekend,700,712,98.3,More than 8 Hours
+1503960366,18-04-2016,13019,1921,42,16,233,1149,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1503960366,19-04-2016,15506,2035,50,31,264,775,High Activity,High Very-Active,Weekday,304,320,95,Less than 6 Hours
+1503960366,20-04-2016,10544,1786,28,12,205,818,High Activity,Moderate Very-Active,Weekday,360,377,95.5,6-8 Hours
+1503960366,21-04-2016,9819,1775,19,8,211,838,Moderate Activity,Moderate Very-Active,Weekday,325,364,89.3,Less than 6 Hours
+1503960366,22-04-2016,12764,1827,66,27,130,1217,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1503960366,23-04-2016,14371,1949,41,21,262,732,High Activity,High Very-Active,Weekend,361,384,94,6-8 Hours
+1503960366,24-04-2016,10039,1788,39,5,238,709,High Activity,High Very-Active,Weekend,430,449,95.8,6-8 Hours
+1503960366,25-04-2016,15355,2013,73,14,216,814,High Activity,High Very-Active,Weekday,277,323,85.8,Less than 6 Hours
+1503960366,26-04-2016,13755,1970,31,23,279,833,High Activity,High Very-Active,Weekday,245,274,89.4,Less than 6 Hours
+1503960366,27-04-2016,18134,2159,78,11,243,1108,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1503960366,28-04-2016,13154,1898,48,28,189,782,High Activity,High Very-Active,Weekday,366,393,93.1,6-8 Hours
+1503960366,29-04-2016,11181,1837,16,12,243,815,High Activity,Moderate Very-Active,Weekday,341,354,96.3,Less than 6 Hours
+1503960366,30-04-2016,14673,1947,52,34,217,712,High Activity,High Very-Active,Weekend,404,425,95.1,6-8 Hours
+1503960366,01-05-2016,10602,1820,33,35,246,730,High Activity,High Very-Active,Weekend,369,396,93.2,6-8 Hours
+1503960366,02-05-2016,14727,2004,41,15,277,798,High Activity,High Very-Active,Weekday,277,309,89.6,Less than 6 Hours
+1503960366,03-05-2016,15103,1990,50,24,254,816,High Activity,High Very-Active,Weekday,273,296,92.2,Less than 6 Hours
+1503960366,04-05-2016,11100,1819,36,22,203,1179,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1503960366,05-05-2016,14070,1959,45,24,250,857,High Activity,High Very-Active,Weekday,247,264,93.6,Less than 6 Hours
+1503960366,06-05-2016,12159,1896,24,6,289,754,High Activity,Moderate Very-Active,Weekday,334,367,91,Less than 6 Hours
+1503960366,07-05-2016,11992,1821,37,46,175,833,High Activity,High Very-Active,Weekend,331,349,94.8,Less than 6 Hours
+1503960366,08-05-2016,10060,1740,44,8,203,574,High Activity,High Very-Active,Weekend,594,611,97.2,More than 8 Hours
+1503960366,09-05-2016,12022,1819,46,11,206,835,High Activity,High Very-Active,Weekday,338,342,98.8,Less than 6 Hours
+1503960366,10-05-2016,12207,1859,46,31,214,746,High Activity,High Very-Active,Weekday,383,403,95,6-8 Hours
+1503960366,11-05-2016,12770,1783,36,23,251,669,High Activity,High Very-Active,Weekday,285,306,93.1,Less than 6 Hours
+1503960366,12-05-2016,0,0,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,12-04-2016,8163,1432,0,0,146,1294,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,13-04-2016,7007,1411,0,0,148,1292,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,14-04-2016,9107,1572,0,0,236,1204,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,15-04-2016,1510,1344,0,0,96,1344,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,16-04-2016,5370,1463,0,0,176,1264,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,17-04-2016,6175,1554,15,22,127,1276,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,18-04-2016,10536,1604,17,7,202,1214,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,19-04-2016,2916,1435,0,0,141,1299,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,20-04-2016,4974,1446,0,0,151,1289,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,21-04-2016,6349,1467,0,0,186,1254,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,22-04-2016,4026,1470,0,0,199,1241,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,23-04-2016,8538,1562,0,0,227,1213,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,24-04-2016,6076,1617,16,18,185,1221,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,25-04-2016,6497,1492,0,0,202,1238,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,26-04-2016,2826,1402,0,0,140,1300,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,27-04-2016,8367,1670,17,36,154,1233,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,28-04-2016,2759,1401,0,5,115,1320,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,29-04-2016,2390,1404,0,0,150,1290,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,30-04-2016,6474,1655,11,23,224,1182,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,01-05-2016,36019,2690,186,63,171,1020,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,02-05-2016,7155,1497,7,6,166,1261,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,03-05-2016,2100,1334,0,0,96,1344,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,04-05-2016,2193,1368,0,0,118,1322,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,05-05-2016,2470,1370,0,0,117,1323,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,06-05-2016,1727,1341,0,0,102,1338,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,07-05-2016,2104,1474,0,0,182,1258,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,08-05-2016,3427,1427,0,0,152,1288,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1624580081,09-05-2016,1732,1328,0,0,91,1349,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,10-05-2016,2969,1393,0,0,139,1301,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,11-05-2016,3134,1359,0,0,112,1328,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1624580081,12-05-2016,2971,1002,0,0,107,890,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,12-04-2016,10694,3199,2,51,256,1131,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,13-04-2016,8001,2902,30,16,135,1259,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,14-04-2016,11037,3226,5,58,252,1125,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,15-04-2016,5263,2750,3,4,170,1263,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,16-04-2016,15300,3493,51,42,212,1135,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,17-04-2016,8757,3011,29,13,186,1212,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,18-04-2016,7132,2806,15,33,121,1271,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,19-04-2016,11256,3300,5,58,278,1099,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,20-04-2016,2436,2430,0,0,125,1315,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,21-04-2016,1223,2140,0,0,38,1402,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,22-04-2016,3673,2344,0,0,86,1354,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,23-04-2016,6637,2677,0,15,160,1265,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,24-04-2016,3321,2413,0,0,89,1351,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,25-04-2016,3580,2497,8,1,94,1337,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,26-04-2016,9919,3123,11,41,223,1165,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,27-04-2016,3032,2489,0,0,118,1322,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,28-04-2016,9405,3108,3,53,227,1157,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,29-04-2016,3176,2498,0,0,120,1193,Low Activity,Low Very-Active,Weekday,119,127,93.7,Less than 6 Hours
+1644430081,30-04-2016,18213,3846,9,71,402,816,High Activity,Low Very-Active,Weekend,124,142,87.3,Less than 6 Hours
+1644430081,01-05-2016,6132,2696,3,24,146,908,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,02-05-2016,3758,2580,1,7,148,682,Low Activity,Low Very-Active,Weekday,796,961,82.8,More than 8 Hours
+1644430081,03-05-2016,12850,3324,10,94,221,1115,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,04-05-2016,2309,2222,0,0,52,1388,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,05-05-2016,4363,2463,6,12,81,1341,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,06-05-2016,9787,3328,11,6,369,1054,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,07-05-2016,13372,3404,41,17,243,1139,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1644430081,08-05-2016,6724,2987,0,0,295,991,Moderate Activity,Low Very-Active,Weekend,137,154,89,Less than 6 Hours
+1644430081,09-05-2016,6643,3008,32,6,303,1099,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,10-05-2016,9167,2799,12,19,155,1254,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1644430081,11-05-2016,1329,1276,0,0,49,713,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,12-04-2016,6697,2030,0,0,339,1101,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,13-04-2016,4929,1860,0,0,248,1192,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,14-04-2016,7937,2130,0,0,373,843,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,15-04-2016,3844,1725,0,0,176,527,Low Activity,Low Very-Active,Weekday,644,961,67,More than 8 Hours
+1844505072,16-04-2016,3414,1657,0,0,147,1293,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,17-04-2016,4525,1793,2,8,199,1231,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,18-04-2016,4597,1814,0,12,217,1211,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,19-04-2016,197,1366,0,0,10,1430,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,20-04-2016,8,1349,0,0,1,1439,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,21-04-2016,8054,2062,2,13,308,1117,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,22-04-2016,5372,1827,0,0,220,1220,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,23-04-2016,3570,1645,0,0,139,1301,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,24-04-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,25-04-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,26-04-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,27-04-2016,4,1348,0,0,1,1439,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,28-04-2016,6907,1992,0,0,302,1138,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,29-04-2016,4920,1856,0,0,247,1082,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,30-04-2016,4014,1763,0,0,184,218,Low Activity,Low Very-Active,Weekend,722,961,75.1,More than 8 Hours
+1844505072,01-05-2016,2573,1541,0,7,75,585,Low Activity,Low Very-Active,Weekend,590,961,61.4,More than 8 Hours
+1844505072,02-05-2016,0,1348,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,03-05-2016,4059,1742,0,0,184,1256,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,04-05-2016,2080,1549,0,0,87,1353,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,05-05-2016,2237,1589,0,0,120,1320,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,06-05-2016,44,1351,0,0,2,1438,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,07-05-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,08-05-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1844505072,09-05-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,10-05-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,11-05-2016,0,1347,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1844505072,12-05-2016,0,665,0,0,0,711,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,12-04-2016,678,2220,0,0,55,734,Low Activity,Low Very-Active,Weekday,750,775,96.8,More than 8 Hours
+1927972279,13-04-2016,356,2151,0,0,32,986,Low Activity,Low Very-Active,Weekday,398,422,94.3,6-8 Hours
+1927972279,14-04-2016,2163,2383,0,9,88,1292,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,15-04-2016,980,2221,0,0,51,941,Low Activity,Low Very-Active,Weekday,475,499,95.2,6-8 Hours
+1927972279,16-04-2016,0,2064,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,17-04-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,18-04-2016,244,2111,0,0,17,1423,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,19-04-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,20-04-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,21-04-2016,0,2064,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,22-04-2016,149,2093,0,0,10,1430,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,23-04-2016,2945,2499,0,0,145,1295,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,24-04-2016,2090,2324,1,6,75,1358,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,25-04-2016,152,2100,0,0,12,1303,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,26-04-2016,3761,2638,0,0,192,1058,Low Activity,Low Very-Active,Weekday,296,315,94,Less than 6 Hours
+1927972279,27-04-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,28-04-2016,1675,2351,0,0,95,1167,Low Activity,Low Very-Active,Weekday,166,178,93.3,Less than 6 Hours
+1927972279,29-04-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,30-04-2016,0,2064,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,01-05-2016,2704,2411,14,1,70,1355,Low Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,02-05-2016,3790,2505,16,8,94,1322,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,03-05-2016,1326,2195,10,0,17,1413,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,04-05-2016,1786,2338,0,0,87,1353,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,05-05-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,06-05-2016,2091,2383,0,0,108,1332,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,07-05-2016,1510,2229,0,0,48,1392,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,08-05-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+1927972279,09-05-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,10-05-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,11-05-2016,0,2063,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+1927972279,12-05-2016,0,1383,0,0,0,966,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,12-04-2016,11875,2390,42,14,227,1157,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,13-04-2016,12024,2601,43,5,292,1100,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,14-04-2016,10690,2312,32,3,257,1148,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,15-04-2016,11034,2525,27,9,282,1122,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,16-04-2016,10100,2177,41,11,151,1237,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,17-04-2016,15112,2782,28,29,331,1052,High Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,18-04-2016,14131,2770,48,3,311,1078,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,19-04-2016,11548,2489,31,7,250,1152,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,20-04-2016,15112,2897,48,63,276,1053,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,21-04-2016,12453,3158,104,53,255,1028,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,22-04-2016,12954,2638,52,10,273,1105,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,23-04-2016,6001,2069,0,0,249,1191,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,24-04-2016,13481,2529,37,26,216,1161,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,25-04-2016,11369,2470,44,8,217,1171,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,26-04-2016,10119,2793,55,24,275,1086,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,27-04-2016,10159,2463,19,20,282,1119,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,28-04-2016,10140,2296,6,20,291,1123,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,29-04-2016,10245,2611,21,40,281,1098,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,30-04-2016,18387,2732,13,23,361,1043,High Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,01-05-2016,10538,2380,25,28,245,1142,High Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,02-05-2016,10379,2473,36,8,277,1119,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,03-05-2016,12183,2752,72,14,250,1104,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,04-05-2016,11768,2649,36,27,272,1105,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,05-05-2016,11895,2609,55,20,253,1112,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,06-05-2016,10227,2498,24,17,295,1104,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,07-05-2016,6708,1995,20,2,149,1269,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,08-05-2016,3292,1848,0,0,135,1305,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2022484408,09-05-2016,13379,2709,35,47,297,1061,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,10-05-2016,12798,2797,57,28,271,1084,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,11-05-2016,13272,2544,58,25,224,1133,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2022484408,12-05-2016,9117,1853,16,16,236,728,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2026352035,12-04-2016,4414,1459,3,8,181,706,Low Activity,Low Very-Active,Weekday,503,546,92.1,More than 8 Hours
+2026352035,13-04-2016,4993,1521,0,0,238,663,Low Activity,Low Very-Active,Weekday,531,565,94,More than 8 Hours
+2026352035,14-04-2016,3335,1431,0,0,197,653,Low Activity,Low Very-Active,Weekday,545,568,96,More than 8 Hours
+2026352035,15-04-2016,3821,1444,0,0,188,687,Low Activity,Low Very-Active,Weekday,523,573,91.3,More than 8 Hours
+2026352035,16-04-2016,2547,1373,0,0,150,728,Low Activity,Low Very-Active,Weekend,524,567,92.4,More than 8 Hours
+2026352035,17-04-2016,838,1214,0,0,60,1053,Low Activity,Low Very-Active,Weekend,437,498,87.8,6-8 Hours
+2026352035,18-04-2016,3325,1419,0,0,182,1062,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2026352035,19-04-2016,2424,1356,0,0,141,785,Low Activity,Low Very-Active,Weekday,498,540,92.2,More than 8 Hours
+2026352035,20-04-2016,7222,1667,0,0,327,623,Moderate Activity,Low Very-Active,Weekday,461,510,90.4,6-8 Hours
+2026352035,21-04-2016,2467,1370,0,0,153,749,Low Activity,Low Very-Active,Weekday,477,514,92.8,6-8 Hours
+2026352035,22-04-2016,2915,1399,0,0,162,712,Low Activity,Low Very-Active,Weekday,520,545,95.4,More than 8 Hours
+2026352035,23-04-2016,12357,1916,0,0,432,458,High Activity,Low Very-Active,Weekend,522,554,94.2,More than 8 Hours
+2026352035,24-04-2016,3490,1401,0,0,164,704,Low Activity,Low Very-Active,Weekend,555,591,93.9,More than 8 Hours
+2026352035,25-04-2016,6017,1576,0,0,260,821,Moderate Activity,Low Very-Active,Weekday,506,531,95.3,More than 8 Hours
+2026352035,26-04-2016,5933,1595,0,0,288,1018,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2026352035,27-04-2016,6088,1593,0,0,286,586,Moderate Activity,Low Very-Active,Weekday,508,545,93.2,More than 8 Hours
+2026352035,28-04-2016,6375,1649,0,0,331,626,Moderate Activity,Low Very-Active,Weekday,513,545,94.1,More than 8 Hours
+2026352035,29-04-2016,7604,1692,0,0,352,492,Moderate Activity,Low Very-Active,Weekday,490,510,96.1,More than 8 Hours
+2026352035,30-04-2016,4729,1506,0,0,233,594,Low Activity,Low Very-Active,Weekend,573,607,94.4,More than 8 Hours
+2026352035,01-05-2016,3609,1447,0,0,191,716,Low Activity,Low Very-Active,Weekend,527,546,96.5,More than 8 Hours
+2026352035,02-05-2016,7018,1690,0,0,355,716,Moderate Activity,Low Very-Active,Weekday,511,543,94.1,More than 8 Hours
+2026352035,03-05-2016,5992,1604,0,0,304,981,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2026352035,04-05-2016,6564,1658,0,0,345,530,Moderate Activity,Low Very-Active,Weekday,538,560,96.1,More than 8 Hours
+2026352035,05-05-2016,12167,1926,0,0,475,479,High Activity,Low Very-Active,Weekday,468,485,96.5,6-8 Hours
+2026352035,06-05-2016,8198,1736,0,0,383,511,Moderate Activity,Low Very-Active,Weekday,524,548,95.6,More than 8 Hours
+2026352035,07-05-2016,4193,1491,0,0,229,665,Low Activity,Low Very-Active,Weekend,511,521,98.1,More than 8 Hours
+2026352035,08-05-2016,5528,1555,0,0,258,610,Moderate Activity,Low Very-Active,Weekend,541,568,95.2,More than 8 Hours
+2026352035,09-05-2016,10685,1869,0,0,401,543,High Activity,Low Very-Active,Weekday,531,556,95.5,More than 8 Hours
+2026352035,10-05-2016,254,1141,0,0,17,1002,Low Activity,Low Very-Active,Weekday,357,380,93.9,Less than 6 Hours
+2026352035,11-05-2016,8580,1698,0,0,330,569,Moderate Activity,Low Very-Active,Weekday,523,553,94.6,More than 8 Hours
+2026352035,12-05-2016,8891,1364,0,0,343,330,Moderate Activity,Low Very-Active,Weekday,456,485,94,6-8 Hours
+2320127002,12-04-2016,10725,2124,13,9,306,1112,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,13-04-2016,7275,2003,0,0,335,1105,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,14-04-2016,3973,1696,0,0,191,1249,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,15-04-2016,5205,1801,0,0,245,1195,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,16-04-2016,5057,1724,0,0,195,1245,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,17-04-2016,6198,1852,0,0,249,1191,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,18-04-2016,6559,1905,0,7,260,1173,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,19-04-2016,5997,1811,0,11,228,1201,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,20-04-2016,7192,1922,0,11,283,1146,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,21-04-2016,3404,1610,1,10,127,1302,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,22-04-2016,5583,1851,0,0,266,1174,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,23-04-2016,5079,1804,0,0,242,1129,Moderate Activity,Low Very-Active,Weekend,61,69,88.4,Less than 6 Hours
+2320127002,24-04-2016,4165,1725,0,0,204,1236,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,25-04-2016,3588,1654,3,5,152,1280,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,26-04-2016,3409,1632,0,0,147,1293,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,27-04-2016,1715,1481,0,0,82,1358,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,28-04-2016,1532,1473,0,0,76,1364,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,29-04-2016,924,1410,0,0,45,1395,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,30-04-2016,4571,1779,0,0,234,1206,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,01-05-2016,772,1403,0,0,40,1400,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,02-05-2016,3634,1613,5,6,123,1306,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,03-05-2016,7443,1878,20,10,206,1204,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,04-05-2016,1201,1426,0,0,52,1388,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,05-05-2016,5202,1780,0,11,223,1206,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,06-05-2016,4878,1742,0,0,204,1236,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,07-05-2016,7379,1972,0,0,319,1121,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,08-05-2016,5161,1821,0,0,247,1193,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2320127002,09-05-2016,3090,1630,0,0,145,1295,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,10-05-2016,6227,1899,0,0,290,1150,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,11-05-2016,6424,1903,0,0,300,1140,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2320127002,12-05-2016,2661,1125,0,0,128,830,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2347167796,12-04-2016,10113,2344,28,13,320,964,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2347167796,13-04-2016,10352,2038,19,32,195,676,High Activity,Moderate Very-Active,Weekday,467,531,87.9,6-8 Hours
+2347167796,14-04-2016,10129,2010,1,48,206,705,High Activity,Low Very-Active,Weekday,445,489,91,6-8 Hours
+2347167796,15-04-2016,10465,2133,1,24,284,720,High Activity,Low Very-Active,Weekday,452,504,89.7,6-8 Hours
+2347167796,16-04-2016,22244,2670,66,72,268,968,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2347167796,17-04-2016,5472,1882,1,7,249,508,Moderate Activity,Low Very-Active,Weekend,556,602,92.4,More than 8 Hours
+2347167796,18-04-2016,8247,1944,11,16,206,678,Moderate Activity,Moderate Very-Active,Weekday,500,557,89.8,More than 8 Hours
+2347167796,19-04-2016,6711,2346,0,7,382,648,Moderate Activity,Low Very-Active,Weekday,465,514,90.5,6-8 Hours
+2347167796,20-04-2016,10999,2198,11,43,269,1011,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2347167796,21-04-2016,10080,2048,23,26,208,761,High Activity,Moderate Very-Active,Weekday,460,484,95,6-8 Hours
+2347167796,22-04-2016,7804,1946,9,27,206,781,Moderate Activity,Low Very-Active,Weekday,405,461,87.9,6-8 Hours
+2347167796,23-04-2016,16901,2629,32,35,360,591,High Activity,High Very-Active,Weekend,374,386,96.9,6-8 Hours
+2347167796,24-04-2016,9471,2187,0,0,360,584,Moderate Activity,Low Very-Active,Weekend,442,459,96.3,6-8 Hours
+2347167796,25-04-2016,9482,2095,15,11,277,653,Moderate Activity,Moderate Very-Active,Weekday,433,471,91.9,6-8 Hours
+2347167796,26-04-2016,5980,1861,0,0,227,732,Moderate Activity,Low Very-Active,Weekday,436,490,89,6-8 Hours
+2347167796,27-04-2016,11423,2194,26,9,295,623,High Activity,Moderate Very-Active,Weekday,448,499,89.8,6-8 Hours
+2347167796,28-04-2016,5439,1854,0,0,229,764,Moderate Activity,Low Very-Active,Weekday,408,450,90.7,6-8 Hours
+2347167796,29-04-2016,42,403,0,0,4,2,Low Activity,Low Very-Active,Weekday,411,473,86.9,6-8 Hours
+2873212765,12-04-2016,8796,1982,2,21,356,1061,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,13-04-2016,7618,2004,0,8,404,1028,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,14-04-2016,7910,1893,0,0,331,1109,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,15-04-2016,8482,2063,0,0,448,992,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,16-04-2016,9685,2148,47,1,305,1087,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,17-04-2016,2524,1529,0,8,160,1272,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,18-04-2016,7762,1890,1,6,311,1122,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,19-04-2016,7948,1956,0,0,389,1051,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,20-04-2016,9202,2094,22,5,378,1035,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,21-04-2016,8859,1970,2,10,371,1057,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,22-04-2016,7286,2241,46,0,366,1028,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,23-04-2016,9317,2021,28,5,330,1077,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,24-04-2016,6873,1898,46,1,190,1203,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,25-04-2016,7373,1907,0,0,359,1081,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,26-04-2016,8242,1882,2,5,309,1124,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,27-04-2016,3516,1966,46,0,197,1197,Low Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,28-04-2016,7913,1835,28,7,213,1192,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,29-04-2016,7365,1780,20,23,206,1191,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,30-04-2016,8452,1830,5,20,248,1167,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,01-05-2016,7399,1739,7,18,196,1219,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,02-05-2016,7525,1878,0,7,334,1099,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,03-05-2016,7412,1906,1,6,363,1070,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,04-05-2016,8278,2015,0,0,420,1020,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,05-05-2016,8314,1971,13,23,311,1093,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,06-05-2016,7063,1910,0,5,370,1065,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,07-05-2016,4940,1897,75,11,52,1302,Low Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,08-05-2016,8168,2096,46,0,326,1068,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+2873212765,09-05-2016,7726,1906,0,0,345,1095,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,10-05-2016,8275,1962,0,0,373,1067,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,11-05-2016,6440,1826,0,0,319,1121,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+2873212765,12-05-2016,7566,1431,0,0,268,720,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,12-04-2016,4747,1788,0,0,280,1160,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,13-04-2016,9715,2093,16,8,371,1045,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,14-04-2016,8844,2065,6,25,370,1039,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,15-04-2016,7451,1908,0,0,335,1105,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,16-04-2016,6905,1908,0,0,356,1084,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3372868164,17-04-2016,8199,1964,11,2,322,1105,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3372868164,18-04-2016,6798,2014,20,7,343,1070,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,19-04-2016,7711,1985,0,0,376,1064,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,20-04-2016,4880,1867,15,3,274,1148,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,21-04-2016,8857,2124,18,9,376,1037,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,22-04-2016,3843,1669,0,0,206,1234,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,23-04-2016,7396,1995,20,2,303,1115,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3372868164,24-04-2016,6731,1921,14,7,292,1127,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3372868164,25-04-2016,5995,2010,0,0,416,1024,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,26-04-2016,8283,2057,22,2,333,1083,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,27-04-2016,7904,2095,24,13,346,1057,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,28-04-2016,5512,1972,0,0,385,1055,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,29-04-2016,9135,2044,0,0,402,1038,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3372868164,30-04-2016,5250,1946,17,4,300,1119,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3372868164,01-05-2016,3077,1237,0,0,172,842,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+3977333714,12-04-2016,8856,1450,44,19,131,777,Moderate Activity,High Very-Active,Weekday,274,469,58.4,Less than 6 Hours
+3977333714,13-04-2016,10035,1495,31,46,153,754,High Activity,High Very-Active,Weekday,295,456,64.7,Less than 6 Hours
+3977333714,14-04-2016,7641,1433,5,23,214,801,Moderate Activity,Low Very-Active,Weekday,291,397,73.3,Less than 6 Hours
+3977333714,15-04-2016,9010,1468,15,42,183,644,Moderate Activity,Moderate Very-Active,Weekday,424,556,76.3,6-8 Hours
+3977333714,16-04-2016,13459,1625,31,83,153,663,High Activity,High Very-Active,Weekend,283,510,55.5,Less than 6 Hours
+3977333714,17-04-2016,10415,1529,11,58,205,600,High Activity,Moderate Very-Active,Weekend,381,566,67.3,6-8 Hours
+3977333714,18-04-2016,11663,1584,4,95,214,605,High Activity,Low Very-Active,Weekday,412,522,78.9,6-8 Hours
+3977333714,19-04-2016,12414,1638,19,67,221,738,High Activity,Moderate Very-Active,Weekday,219,395,55.4,Less than 6 Hours
+3977333714,20-04-2016,11658,1554,2,98,164,845,High Activity,Low Very-Active,Weekday,152,305,49.8,Less than 6 Hours
+3977333714,21-04-2016,6093,1397,0,0,242,712,Moderate Activity,Low Very-Active,Weekday,332,512,64.8,Less than 6 Hours
+3977333714,22-04-2016,8911,1481,33,12,188,731,Moderate Activity,High Very-Active,Weekday,355,476,74.6,Less than 6 Hours
+3977333714,23-04-2016,12058,1638,0,92,252,724,High Activity,Low Very-Active,Weekend,235,372,63.2,Less than 6 Hours
+3977333714,24-04-2016,14112,1655,30,95,129,660,High Activity,High Very-Active,Weekend,310,526,58.9,Less than 6 Hours
+3977333714,25-04-2016,11177,1570,50,9,133,781,High Activity,High Very-Active,Weekday,262,467,56.1,Less than 6 Hours
+3977333714,26-04-2016,11388,1551,7,95,170,797,High Activity,Low Very-Active,Weekday,250,371,67.4,Less than 6 Hours
+3977333714,27-04-2016,7193,1377,0,10,176,714,Moderate Activity,Low Very-Active,Weekday,349,540,64.6,Less than 6 Hours
+3977333714,28-04-2016,7114,1407,15,8,190,804,Moderate Activity,Moderate Very-Active,Weekday,261,423,61.7,Less than 6 Hours
+3977333714,29-04-2016,10645,1545,36,32,150,744,High Activity,High Very-Active,Weekday,333,478,69.7,Less than 6 Hours
+3977333714,30-04-2016,13238,1650,43,52,194,687,High Activity,High Very-Active,Weekend,237,382,62,Less than 6 Hours
+3977333714,01-05-2016,10414,1501,41,40,124,691,High Activity,High Very-Active,Weekend,383,626,61.2,6-8 Hours
+3977333714,02-05-2016,16520,1760,24,143,176,713,High Activity,Moderate Very-Active,Weekday,230,384,59.9,Less than 6 Hours
+3977333714,03-05-2016,14335,1710,47,41,258,594,High Activity,High Very-Active,Weekday,292,500,58.4,Less than 6 Hours
+3977333714,04-05-2016,13559,1628,14,96,142,852,High Activity,Moderate Very-Active,Weekday,213,336,63.4,Less than 6 Hours
+3977333714,05-05-2016,12312,1618,14,88,178,680,High Activity,Moderate Very-Active,Weekday,318,480,66.3,Less than 6 Hours
+3977333714,06-05-2016,11677,1590,29,55,168,676,High Activity,Moderate Very-Active,Weekday,323,512,63.1,Less than 6 Hours
+3977333714,07-05-2016,11550,1574,0,86,208,703,High Activity,Low Very-Active,Weekend,237,443,53.5,Less than 6 Hours
+3977333714,08-05-2016,13585,1633,9,116,171,688,High Activity,Low Very-Active,Weekend,259,456,56.8,Less than 6 Hours
+3977333714,09-05-2016,14687,1667,8,122,151,1159,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+3977333714,10-05-2016,13072,1630,1,115,196,676,High Activity,Low Very-Active,Weekday,312,452,69,Less than 6 Hours
+3977333714,11-05-2016,746,52,4,0,9,13,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,12-04-2016,8539,3654,4,15,331,712,Moderate Activity,Low Very-Active,Weekday,501,541,92.6,More than 8 Hours
+4020332650,13-04-2016,0,1981,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,14-04-2016,108,2011,0,0,3,1437,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,15-04-2016,1882,2951,36,18,87,1299,Low Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,16-04-2016,1982,3051,65,21,55,1222,Low Activity,High Very-Active,Weekend,77,77,100,Less than 6 Hours
+4020332650,17-04-2016,16,1990,0,0,2,1438,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,18-04-2016,62,1995,0,0,2,1438,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,19-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,20-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,21-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,22-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,23-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,24-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,25-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,26-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,27-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,28-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,29-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,30-04-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,01-05-2016,0,1980,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,02-05-2016,475,2207,0,11,31,1350,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,03-05-2016,4496,2828,0,0,174,950,Low Activity,Low Very-Active,Weekday,322,332,97,Less than 6 Hours
+4020332650,04-05-2016,10252,3879,13,46,346,531,High Activity,Moderate Very-Active,Weekday,478,536,89.2,6-8 Hours
+4020332650,05-05-2016,11728,3429,38,42,196,916,High Activity,High Very-Active,Weekday,226,248,91.1,Less than 6 Hours
+4020332650,06-05-2016,4369,2704,0,0,177,855,Low Activity,Low Very-Active,Weekday,385,408,94.4,6-8 Hours
+4020332650,07-05-2016,6132,2975,0,0,184,1256,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4020332650,08-05-2016,5862,3089,0,0,263,775,Moderate Activity,Low Very-Active,Weekend,364,402,90.5,6-8 Hours
+4020332650,09-05-2016,4556,2785,3,5,173,1225,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,10-05-2016,5546,2926,0,0,206,774,Moderate Activity,Low Very-Active,Weekday,442,494,89.5,6-8 Hours
+4020332650,11-05-2016,3689,2645,2,8,134,1296,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4020332650,12-05-2016,590,1120,0,0,21,721,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4057192912,12-04-2016,5394,2286,0,0,164,1276,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4057192912,13-04-2016,5974,2306,0,0,160,1280,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4057192912,14-04-2016,0,1776,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4057192912,15-04-2016,3984,1527,3,6,88,873,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4319703577,12-04-2016,7753,2115,0,0,0,1440,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4319703577,13-04-2016,8204,2135,8,15,96,1234,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4319703577,14-04-2016,10210,2302,1,9,339,589,High Activity,Low Very-Active,Weekday,535,557,96.1,More than 8 Hours
+4319703577,15-04-2016,5664,1985,0,0,228,752,Moderate Activity,Low Very-Active,Weekday,465,491,94.7,6-8 Hours
+4319703577,16-04-2016,4744,1884,0,0,194,724,Low Activity,Low Very-Active,Weekend,506,522,96.9,More than 8 Hours
+4319703577,17-04-2016,29,1464,0,0,3,1363,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4319703577,18-04-2016,2276,1632,1,9,58,824,Low Activity,Low Very-Active,Weekday,515,551,93.5,More than 8 Hours
+4319703577,19-04-2016,8925,2200,0,0,311,604,Moderate Activity,Low Very-Active,Weekday,461,498,92.6,6-8 Hours
+4319703577,20-04-2016,8954,2220,0,18,306,671,Moderate Activity,Low Very-Active,Weekday,523,543,96.3,More than 8 Hours
+4319703577,21-04-2016,3702,1792,0,0,34,1265,Low Activity,Low Very-Active,Weekday,59,65,90.8,Less than 6 Hours
+4319703577,22-04-2016,4500,1886,1,19,176,709,Low Activity,Low Very-Active,Weekday,533,550,96.9,More than 8 Hours
+4319703577,23-04-2016,4935,1945,0,0,233,546,Low Activity,Low Very-Active,Weekend,692,722,95.8,More than 8 Hours
+4319703577,24-04-2016,4081,1880,1,5,191,692,Low Activity,Low Very-Active,Weekend,467,501,93.2,6-8 Hours
+4319703577,25-04-2016,9259,2314,0,8,390,544,Moderate Activity,Low Very-Active,Weekday,488,506,96.4,More than 8 Hours
+4319703577,26-04-2016,9899,2236,8,21,288,649,Moderate Activity,Low Very-Active,Weekday,505,516,97.9,More than 8 Hours
+4319703577,27-04-2016,10780,2324,6,47,300,680,High Activity,Low Very-Active,Weekday,286,307,93.2,Less than 6 Hours
+4319703577,28-04-2016,10817,2367,13,8,359,552,High Activity,Moderate Very-Active,Weekday,497,522,95.2,More than 8 Hours
+4319703577,29-04-2016,7990,2175,6,18,289,624,Moderate Activity,Low Very-Active,Weekday,523,546,95.8,More than 8 Hours
+4319703577,30-04-2016,8221,2092,6,38,196,695,Moderate Activity,Low Very-Active,Weekend,490,516,95,More than 8 Hours
+4319703577,01-05-2016,1251,1593,0,0,67,836,Low Activity,Low Very-Active,Weekend,484,500,96.8,More than 8 Hours
+4319703577,02-05-2016,9261,2270,0,11,344,585,Moderate Activity,Low Very-Active,Weekday,478,506,94.5,6-8 Hours
+4319703577,03-05-2016,9648,2235,8,26,287,669,Moderate Activity,Low Very-Active,Weekday,474,512,92.6,6-8 Hours
+4319703577,04-05-2016,10429,2282,8,13,313,1106,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4319703577,05-05-2016,13658,2530,27,34,328,957,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4319703577,06-05-2016,9524,2266,6,11,314,692,Moderate Activity,Low Very-Active,Weekday,450,491,91.6,6-8 Hours
+4319703577,07-05-2016,7937,2158,3,28,279,586,Moderate Activity,Low Very-Active,Weekend,507,530,95.7,More than 8 Hours
+4319703577,08-05-2016,3672,1792,0,0,153,603,Low Activity,Low Very-Active,Weekend,602,638,94.4,More than 8 Hours
+4319703577,09-05-2016,10378,2345,2,14,374,490,High Activity,Low Very-Active,Weekday,535,565,94.7,More than 8 Hours
+4319703577,10-05-2016,9487,2260,3,12,329,555,Moderate Activity,Low Very-Active,Weekday,487,517,94.2,More than 8 Hours
+4319703577,11-05-2016,9129,2232,3,18,311,574,Moderate Activity,Low Very-Active,Weekday,529,558,94.8,More than 8 Hours
+4319703577,12-05-2016,17,257,0,0,2,0,Low Activity,Low Very-Active,Weekday,302,321,94.1,Less than 6 Hours
+4388161847,12-04-2016,10122,2955,0,0,0,1440,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,13-04-2016,10993,3092,1,14,150,1275,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,14-04-2016,8863,2998,10,35,219,945,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,15-04-2016,8758,3066,0,0,299,837,Moderate Activity,Low Very-Active,Weekday,499,526,94.9,More than 8 Hours
+4388161847,16-04-2016,6580,3073,6,9,253,609,Moderate Activity,Low Very-Active,Weekend,426,448,95.1,6-8 Hours
+4388161847,17-04-2016,4660,2572,0,0,201,721,Low Activity,Low Very-Active,Weekend,619,641,96.6,More than 8 Hours
+4388161847,18-04-2016,11009,3274,27,8,239,1017,High Activity,Moderate Very-Active,Weekday,99,104,95.2,Less than 6 Hours
+4388161847,19-04-2016,10181,3015,20,16,249,704,High Activity,Moderate Very-Active,Weekday,329,338,97.3,Less than 6 Hours
+4388161847,20-04-2016,10553,3083,19,42,228,696,High Activity,Moderate Very-Active,Weekday,421,451,93.3,6-8 Hours
+4388161847,21-04-2016,10055,3069,7,12,272,853,High Activity,Low Very-Active,Weekday,442,458,96.5,6-8 Hours
+4388161847,22-04-2016,12139,3544,77,25,220,945,High Activity,High Very-Active,Weekday,82,85,96.5,Less than 6 Hours
+4388161847,23-04-2016,13236,3306,58,5,215,749,High Activity,High Very-Active,Weekend,478,501,95.4,6-8 Hours
+4388161847,24-04-2016,10243,2885,14,8,239,584,High Activity,Moderate Very-Active,Weekend,552,595,92.8,More than 8 Hours
+4388161847,25-04-2016,12961,3288,11,31,301,1054,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,26-04-2016,9461,2929,14,23,224,673,Moderate Activity,Moderate Very-Active,Weekday,319,346,92.2,Less than 6 Hours
+4388161847,27-04-2016,11193,3074,11,48,241,684,High Activity,Moderate Very-Active,Weekday,439,500,87.8,6-8 Hours
+4388161847,28-04-2016,10074,2969,19,9,234,878,High Activity,Moderate Very-Active,Weekday,428,458,93.4,6-8 Hours
+4388161847,29-04-2016,9232,2979,13,16,236,1175,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,30-04-2016,12533,3283,14,43,300,537,High Activity,Moderate Very-Active,Weekend,409,430,95.1,6-8 Hours
+4388161847,01-05-2016,10255,2926,12,15,241,579,High Activity,Moderate Very-Active,Weekend,547,597,91.6,More than 8 Hours
+4388161847,02-05-2016,10096,3147,33,4,204,935,High Activity,High Very-Active,Weekday,368,376,97.9,6-8 Hours
+4388161847,03-05-2016,12727,3290,18,18,306,984,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,04-05-2016,12375,3162,35,21,251,632,High Activity,High Very-Active,Weekday,390,414,94.2,6-8 Hours
+4388161847,05-05-2016,9603,2899,12,39,199,896,Moderate Activity,Moderate Very-Active,Weekday,471,495,95.2,6-8 Hours
+4388161847,06-05-2016,13175,3425,33,45,262,1100,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4388161847,07-05-2016,22770,4022,120,56,260,508,High Activity,High Very-Active,Weekend,472,496,95.2,6-8 Hours
+4388161847,08-05-2016,17298,3934,107,38,178,576,High Activity,High Very-Active,Weekend,529,541,97.8,More than 8 Hours
+4388161847,09-05-2016,10218,3013,6,19,258,1020,High Activity,Low Very-Active,Weekday,62,65,95.4,Less than 6 Hours
+4388161847,10-05-2016,10299,3061,13,14,267,648,High Activity,Moderate Very-Active,Weekday,354,375,94.4,Less than 6 Hours
+4388161847,11-05-2016,10201,2954,8,18,256,858,High Activity,Low Very-Active,Weekday,469,494,94.9,6-8 Hours
+4388161847,12-05-2016,3369,1623,0,0,108,825,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4445114986,12-04-2016,3276,2113,0,0,196,787,Low Activity,Low Very-Active,Weekday,429,457,93.9,6-8 Hours
+4445114986,13-04-2016,2961,2095,0,0,194,840,Low Activity,Low Very-Active,Weekday,370,406,91.1,6-8 Hours
+4445114986,14-04-2016,3974,2194,0,0,231,717,Low Activity,Low Very-Active,Weekday,441,492,89.6,6-8 Hours
+4445114986,15-04-2016,7198,2496,0,0,350,711,Moderate Activity,Low Very-Active,Weekday,337,379,88.9,Less than 6 Hours
+4445114986,16-04-2016,3945,2180,0,0,225,716,Low Activity,Low Very-Active,Weekend,462,499,92.6,6-8 Hours
+4445114986,17-04-2016,2268,1933,0,0,114,1219,Low Activity,Low Very-Active,Weekend,98,107,91.6,Less than 6 Hours
+4445114986,18-04-2016,6155,2248,25,6,162,1247,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4445114986,19-04-2016,2064,1954,0,0,121,895,Low Activity,Low Very-Active,Weekday,388,424,91.5,6-8 Hours
+4445114986,20-04-2016,2072,1974,0,0,137,841,Low Activity,Low Very-Active,Weekday,439,462,95,6-8 Hours
+4445114986,21-04-2016,3809,2150,0,0,215,756,Low Activity,Low Very-Active,Weekday,436,469,93,6-8 Hours
+4445114986,22-04-2016,6831,2432,0,0,317,706,Moderate Activity,Low Very-Active,Weekday,388,417,93,6-8 Hours
+4445114986,23-04-2016,4363,2149,0,0,201,1239,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4445114986,24-04-2016,5002,2247,0,0,244,1196,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4445114986,25-04-2016,3385,2070,0,0,179,916,Low Activity,Low Very-Active,Weekday,328,345,95.1,Less than 6 Hours
+4445114986,26-04-2016,6326,2291,29,1,180,839,Moderate Activity,Moderate Very-Active,Weekday,353,391,90.3,Less than 6 Hours
+4445114986,27-04-2016,7243,2361,32,1,194,839,Moderate Activity,High Very-Active,Weekday,332,374,88.8,Less than 6 Hours
+4445114986,28-04-2016,4493,2203,0,0,236,762,Low Activity,Low Very-Active,Weekday,419,442,94.8,6-8 Hours
+4445114986,29-04-2016,4676,2196,0,0,226,1106,Low Activity,Low Very-Active,Weekday,106,108,98.1,Less than 6 Hours
+4445114986,30-04-2016,6222,2363,0,0,290,797,Moderate Activity,Low Very-Active,Weekend,322,353,91.2,Less than 6 Hours
+4445114986,01-05-2016,5232,2246,0,0,240,741,Moderate Activity,Low Very-Active,Weekend,439,459,95.6,6-8 Hours
+4445114986,02-05-2016,6910,2336,27,4,200,667,Moderate Activity,Moderate Very-Active,Weekday,502,542,92.6,More than 8 Hours
+4445114986,03-05-2016,7502,2421,30,2,233,725,Moderate Activity,High Very-Active,Weekday,417,450,92.7,6-8 Hours
+4445114986,04-05-2016,2923,2070,0,0,180,897,Low Activity,Low Very-Active,Weekday,337,363,92.8,Less than 6 Hours
+4445114986,05-05-2016,3800,2120,2,6,185,734,Low Activity,Low Very-Active,Weekday,462,513,90.1,6-8 Hours
+4445114986,06-05-2016,4514,2211,0,0,229,809,Low Activity,Low Very-Active,Weekday,374,402,93,6-8 Hours
+4445114986,07-05-2016,5183,2123,26,4,108,866,Moderate Activity,Moderate Very-Active,Weekend,401,436,92,6-8 Hours
+4445114986,08-05-2016,7303,2423,0,8,308,733,Moderate Activity,Low Very-Active,Weekend,361,391,92.3,6-8 Hours
+4445114986,09-05-2016,5275,2281,0,0,266,641,Moderate Activity,Low Very-Active,Weekday,457,533,85.7,6-8 Hours
+4445114986,10-05-2016,3915,2181,0,0,231,783,Low Activity,Low Very-Active,Weekday,405,426,95.1,6-8 Hours
+4445114986,11-05-2016,9105,2499,34,22,232,622,Moderate Activity,High Very-Active,Weekday,499,530,94.2,More than 8 Hours
+4445114986,12-05-2016,768,1212,0,0,58,380,Low Activity,Low Very-Active,Weekday,483,501,96.4,More than 8 Hours
+4558609924,12-04-2016,5135,1909,0,0,318,1122,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,13-04-2016,4978,1722,19,7,127,1287,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,14-04-2016,6799,1922,0,0,279,1161,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,15-04-2016,7795,2121,17,30,262,1131,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,16-04-2016,7289,1997,8,12,308,1112,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,17-04-2016,9634,2117,7,19,304,1110,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,18-04-2016,8940,2116,14,15,331,1080,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,19-04-2016,5401,1876,1,9,248,1182,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,20-04-2016,4803,1788,0,0,222,1218,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,21-04-2016,13743,2486,6,21,432,844,High Activity,Low Very-Active,Weekday,126,137,92,Less than 6 Hours
+4558609924,22-04-2016,9601,2094,20,25,273,1122,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,23-04-2016,6890,2085,5,5,308,1122,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,24-04-2016,8563,2173,0,0,395,1045,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,25-04-2016,8095,2225,18,10,340,993,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,26-04-2016,9148,2223,12,41,283,1062,Moderate Activity,Moderate Very-Active,Weekday,103,121,85.1,Less than 6 Hours
+4558609924,27-04-2016,9557,2098,27,14,312,1087,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,28-04-2016,9451,2185,1,11,367,985,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,29-04-2016,7833,1918,15,29,197,1096,Moderate Activity,Moderate Very-Active,Weekday,171,179,95.5,Less than 6 Hours
+4558609924,30-04-2016,10319,2105,7,29,293,1111,High Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,01-05-2016,3428,1692,0,0,190,1121,Low Activity,Low Very-Active,Weekend,115,129,89.1,Less than 6 Hours
+4558609924,02-05-2016,7891,2066,0,0,383,1057,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,03-05-2016,5267,1953,21,10,237,1172,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,04-05-2016,5232,1842,0,0,252,1188,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,05-05-2016,10611,2262,14,8,370,1048,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,06-05-2016,3755,1722,0,0,202,1238,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,07-05-2016,8237,1973,23,16,233,1116,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4558609924,08-05-2016,6543,2666,66,35,238,1019,Moderate Activity,High Very-Active,Weekend,123,134,91.8,Less than 6 Hours
+4558609924,09-05-2016,11451,2223,6,30,339,1065,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,10-05-2016,6435,1889,11,18,220,1191,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,11-05-2016,9108,2131,4,31,324,1081,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4558609924,12-05-2016,6307,1452,0,0,247,736,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4702921684,12-04-2016,7213,2947,0,0,263,718,Moderate Activity,Low Very-Active,Weekday,425,439,96.8,6-8 Hours
+4702921684,13-04-2016,6877,2898,0,0,258,777,Moderate Activity,Low Very-Active,Weekday,400,430,93,6-8 Hours
+4702921684,14-04-2016,7860,2984,0,0,271,772,Moderate Activity,Low Very-Active,Weekday,384,415,92.5,6-8 Hours
+4702921684,15-04-2016,6506,2896,1,8,256,944,Moderate Activity,Low Very-Active,Weekday,253,257,98.4,Less than 6 Hours
+4702921684,16-04-2016,11140,3328,3,24,335,556,High Activity,Low Very-Active,Weekend,382,406,94.1,6-8 Hours
+4702921684,17-04-2016,12692,3394,12,66,302,437,High Activity,Moderate Very-Active,Weekend,591,612,96.6,More than 8 Hours
+4702921684,18-04-2016,9105,3013,22,30,191,890,Moderate Activity,Moderate Very-Active,Weekday,293,312,93.9,Less than 6 Hours
+4702921684,19-04-2016,6708,2812,10,8,179,757,Moderate Activity,Moderate Very-Active,Weekday,457,487,93.8,6-8 Hours
+4702921684,20-04-2016,8793,3061,2,29,260,717,Moderate Activity,Low Very-Active,Weekday,454,468,97,6-8 Hours
+4702921684,21-04-2016,6530,2729,4,41,144,901,Moderate Activity,Low Very-Active,Weekday,425,434,97.9,6-8 Hours
+4702921684,22-04-2016,1664,2241,0,0,72,1341,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4702921684,23-04-2016,15126,3691,9,66,408,469,High Activity,Low Very-Active,Weekend,465,475,97.9,6-8 Hours
+4702921684,24-04-2016,15050,3538,15,95,281,542,High Activity,Moderate Very-Active,Weekend,480,506,94.9,6-8 Hours
+4702921684,25-04-2016,9167,3064,6,15,270,730,Moderate Activity,Low Very-Active,Weekday,370,380,97.4,6-8 Hours
+4702921684,26-04-2016,6108,2784,1,8,216,765,Moderate Activity,Low Very-Active,Weekday,421,429,98.1,6-8 Hours
+4702921684,27-04-2016,7047,2908,1,16,238,733,Moderate Activity,Low Very-Active,Weekday,432,449,96.2,6-8 Hours
+4702921684,28-04-2016,9023,3033,14,9,232,738,Moderate Activity,Moderate Very-Active,Weekday,442,461,95.9,6-8 Hours
+4702921684,29-04-2016,9930,3165,12,19,267,692,Moderate Activity,Moderate Very-Active,Weekday,433,447,96.9,6-8 Hours
+4702921684,30-04-2016,10144,3115,4,36,263,728,High Activity,Low Very-Active,Weekend,479,501,95.6,6-8 Hours
+4702921684,01-05-2016,0,2017,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4702921684,02-05-2016,7245,2859,5,40,195,1131,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+4702921684,03-05-2016,9454,3145,0,0,313,729,Moderate Activity,Low Very-Active,Weekday,327,373,87.7,Less than 6 Hours
+4702921684,04-05-2016,8161,3004,4,15,251,757,Moderate Activity,Low Very-Active,Weekday,412,434,94.9,6-8 Hours
+4702921684,05-05-2016,8614,3006,8,5,241,745,Moderate Activity,Low Very-Active,Weekday,414,428,96.7,6-8 Hours
+4702921684,06-05-2016,6943,2859,1,16,207,682,Moderate Activity,Low Very-Active,Weekday,404,449,90,6-8 Hours
+4702921684,07-05-2016,14370,3683,5,46,439,577,High Activity,Low Very-Active,Weekend,520,543,95.8,More than 8 Hours
+4702921684,08-05-2016,12857,3287,9,125,192,1019,High Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+4702921684,09-05-2016,8232,2990,0,12,253,746,Moderate Activity,Low Very-Active,Weekday,435,458,95,6-8 Hours
+4702921684,10-05-2016,10613,3172,1,37,262,701,High Activity,Low Very-Active,Weekday,416,431,96.5,6-8 Hours
+4702921684,11-05-2016,9810,3069,10,41,235,784,Moderate Activity,Moderate Very-Active,Weekday,354,366,96.7,Less than 6 Hours
+4702921684,12-05-2016,2752,1240,0,0,68,241,Low Activity,Low Very-Active,Weekday,404,442,91.4,6-8 Hours
+5553957443,12-04-2016,11596,2026,19,13,277,767,High Activity,Moderate Very-Active,Weekday,441,464,95,6-8 Hours
+5553957443,13-04-2016,4832,1718,0,0,226,647,Low Activity,Low Very-Active,Weekday,455,488,93.2,6-8 Hours
+5553957443,14-04-2016,17022,2324,61,41,256,693,High Activity,High Very-Active,Weekday,357,418,85.4,Less than 6 Hours
+5553957443,15-04-2016,16556,2254,58,38,239,689,High Activity,High Very-Active,Weekday,377,409,92.2,6-8 Hours
+5553957443,16-04-2016,5771,1831,0,0,288,521,Moderate Activity,Low Very-Active,Weekend,651,686,94.9,More than 8 Hours
+5553957443,17-04-2016,655,1397,0,0,46,943,Low Activity,Low Very-Active,Weekend,350,402,87.1,Less than 6 Hours
+5553957443,18-04-2016,3727,1683,0,0,206,622,Low Activity,Low Very-Active,Weekday,520,541,96.1,More than 8 Hours
+5553957443,19-04-2016,15482,2284,69,28,249,756,High Activity,High Very-Active,Weekday,357,410,87.1,Less than 6 Hours
+5553957443,20-04-2016,2713,1570,0,0,148,598,Low Activity,Low Very-Active,Weekday,658,678,97.1,More than 8 Hours
+5553957443,21-04-2016,12346,2066,47,42,177,801,High Activity,High Very-Active,Weekday,399,431,92.6,6-8 Hours
+5553957443,22-04-2016,11682,2105,25,16,270,781,High Activity,Moderate Very-Active,Weekday,322,353,91.2,Less than 6 Hours
+5553957443,23-04-2016,4112,1776,0,0,272,443,Low Activity,Low Very-Active,Weekend,631,725,87,More than 8 Hours
+5553957443,24-04-2016,1807,1507,0,0,104,582,Low Activity,Low Very-Active,Weekend,553,640,86.4,More than 8 Hours
+5553957443,25-04-2016,10946,2033,51,11,201,732,High Activity,High Very-Active,Weekday,433,468,92.5,6-8 Hours
+5553957443,26-04-2016,11886,2093,40,18,238,750,High Activity,High Very-Active,Weekday,412,453,90.9,6-8 Hours
+5553957443,27-04-2016,10538,1922,16,16,206,745,High Activity,Moderate Very-Active,Weekday,347,391,88.7,Less than 6 Hours
+5553957443,28-04-2016,11393,1999,49,13,165,727,High Activity,High Very-Active,Weekday,421,457,92.1,6-8 Hours
+5553957443,29-04-2016,12764,2169,46,15,270,709,High Activity,High Very-Active,Weekday,450,495,90.9,6-8 Hours
+5553957443,30-04-2016,1202,1463,0,0,84,506,Low Activity,Low Very-Active,Weekend,775,843,91.9,More than 8 Hours
+5553957443,01-05-2016,5164,1747,0,0,237,436,Moderate Activity,Low Very-Active,Weekend,622,686,90.7,More than 8 Hours
+5553957443,02-05-2016,9769,1996,23,9,227,724,Moderate Activity,Moderate Very-Active,Weekday,409,471,86.8,6-8 Hours
+5553957443,03-05-2016,12848,2116,26,29,247,812,High Activity,Moderate Very-Active,Weekday,380,429,88.6,6-8 Hours
+5553957443,04-05-2016,4249,1698,0,0,224,651,Low Activity,Low Very-Active,Weekday,447,470,95.1,6-8 Hours
+5553957443,05-05-2016,14331,2156,44,29,241,692,High Activity,High Very-Active,Weekday,419,464,90.3,6-8 Hours
+5553957443,06-05-2016,9632,1916,21,9,229,761,Moderate Activity,Moderate Very-Active,Weekday,400,434,92.2,6-8 Hours
+5553957443,07-05-2016,1868,1494,0,0,96,902,Low Activity,Low Very-Active,Weekend,442,470,94,6-8 Hours
+5553957443,08-05-2016,6083,1762,3,8,210,505,Moderate Activity,Low Very-Active,Weekend,568,608,93.4,More than 8 Hours
+5553957443,09-05-2016,11611,2272,59,22,251,667,High Activity,High Very-Active,Weekday,453,494,91.7,6-8 Hours
+5553957443,10-05-2016,16358,2335,61,40,265,707,High Activity,High Very-Active,Weekday,418,443,94.4,6-8 Hours
+5553957443,11-05-2016,4926,1693,0,0,195,628,Low Activity,Low Very-Active,Weekday,463,486,95.3,6-8 Hours
+5553957443,12-05-2016,3121,741,8,6,48,222,Low Activity,Low Very-Active,Weekday,438,475,92.2,6-8 Hours
+5577150313,12-04-2016,8135,3405,86,16,140,728,Moderate Activity,High Very-Active,Weekday,419,438,95.7,6-8 Hours
+5577150313,13-04-2016,5077,2551,15,11,144,776,Moderate Activity,Moderate Very-Active,Weekday,432,458,94.3,6-8 Hours
+5577150313,14-04-2016,8596,4022,118,30,176,662,Moderate Activity,High Very-Active,Weekday,477,497,96,6-8 Hours
+5577150313,15-04-2016,12087,4005,115,54,199,695,High Activity,High Very-Active,Weekday,392,413,94.9,6-8 Hours
+5577150313,16-04-2016,14269,4274,184,56,158,472,High Activity,High Very-Active,Weekend,406,445,91.2,6-8 Hours
+5577150313,17-04-2016,12231,4552,200,37,159,525,High Activity,High Very-Active,Weekend,549,583,94.2,More than 8 Hours
+5577150313,18-04-2016,9893,3625,114,32,130,623,Moderate Activity,High Very-Active,Weekday,527,553,95.3,More than 8 Hours
+5577150313,19-04-2016,12574,3501,108,23,111,733,High Activity,High Very-Active,Weekday,449,465,96.6,6-8 Hours
+5577150313,20-04-2016,8330,3192,87,16,113,773,Moderate Activity,High Very-Active,Weekday,447,480,93.1,6-8 Hours
+5577150313,21-04-2016,10830,4018,110,74,175,670,High Activity,High Very-Active,Weekday,414,437,94.7,6-8 Hours
+5577150313,22-04-2016,9172,3329,62,30,200,823,Moderate Activity,High Very-Active,Weekday,338,366,92.3,Less than 6 Hours
+5577150313,23-04-2016,7638,3152,24,24,223,627,Moderate Activity,Moderate Very-Active,Weekend,384,402,95.5,6-8 Hours
+5577150313,24-04-2016,15764,4392,210,65,141,425,High Activity,High Very-Active,Weekend,543,615,88.3,More than 8 Hours
+5577150313,25-04-2016,6393,3374,61,38,214,743,Moderate Activity,High Very-Active,Weekday,421,461,91.3,6-8 Hours
+5577150313,26-04-2016,5325,3088,38,32,181,759,Moderate Activity,High Very-Active,Weekday,354,377,93.9,Less than 6 Hours
+5577150313,27-04-2016,6805,3294,63,16,190,773,Moderate Activity,High Very-Active,Weekday,424,452,93.8,6-8 Hours
+5577150313,28-04-2016,9841,3580,99,51,141,692,Moderate Activity,High Very-Active,Weekday,361,372,97,6-8 Hours
+5577150313,29-04-2016,7924,3544,97,36,165,739,Moderate Activity,High Very-Active,Weekday,459,485,94.6,6-8 Hours
+5577150313,30-04-2016,12363,4501,207,45,163,621,High Activity,High Very-Active,Weekend,412,433,95.2,6-8 Hours
+5577150313,01-05-2016,13368,4546,194,72,178,499,High Activity,High Very-Active,Weekend,379,398,95.2,6-8 Hours
+5577150313,02-05-2016,7439,3014,37,20,235,732,Moderate Activity,High Very-Active,Weekday,525,553,94.9,More than 8 Hours
+5577150313,03-05-2016,11045,3795,97,8,212,580,High Activity,High Very-Active,Weekday,508,543,93.6,More than 8 Hours
+5577150313,04-05-2016,5206,2755,25,9,141,631,Moderate Activity,Moderate Very-Active,Weekday,603,634,95.1,More than 8 Hours
+5577150313,05-05-2016,7550,3004,45,21,143,1153,Moderate Activity,High Very-Active,Weekday,74,78,94.9,Less than 6 Hours
+5577150313,06-05-2016,4950,2643,41,16,79,1304,Low Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+5577150313,07-05-2016,0,1819,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+5577150313,08-05-2016,0,1819,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+5577150313,09-05-2016,3421,2489,34,11,70,1099,Low Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+5577150313,10-05-2016,8869,3841,104,37,194,639,Moderate Activity,High Very-Active,Weekday,504,562,89.7,More than 8 Hours
+5577150313,11-05-2016,4038,1665,45,15,63,257,Low Activity,High Very-Active,Weekday,431,476,90.5,6-8 Hours
+6117666160,12-04-2016,0,1496,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,13-04-2016,0,1496,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,14-04-2016,0,1496,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,15-04-2016,14019,2865,0,6,513,921,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,16-04-2016,14450,2828,7,15,518,502,High Activity,Low Very-Active,Weekend,380,398,95.5,6-8 Hours
+6117666160,17-04-2016,7150,2225,0,0,312,702,Moderate Activity,Low Very-Active,Weekend,336,350,96,Less than 6 Hours
+6117666160,18-04-2016,5153,2018,0,0,241,759,Moderate Activity,Low Very-Active,Weekday,493,510,96.7,More than 8 Hours
+6117666160,19-04-2016,11135,2606,0,0,480,425,High Activity,Low Very-Active,Weekday,465,492,94.5,6-8 Hours
+6117666160,20-04-2016,10449,2536,26,10,349,587,High Activity,Moderate Very-Active,Weekday,474,502,94.4,6-8 Hours
+6117666160,21-04-2016,19542,4900,11,19,294,579,High Activity,Moderate Very-Active,Weekday,508,550,92.4,More than 8 Hours
+6117666160,22-04-2016,8206,2409,0,0,402,413,Moderate Activity,Low Very-Active,Weekday,480,546,87.9,6-8 Hours
+6117666160,23-04-2016,11495,2651,0,0,512,468,High Activity,Low Very-Active,Weekend,492,539,91.3,More than 8 Hours
+6117666160,24-04-2016,7623,2305,0,0,362,711,Moderate Activity,Low Very-Active,Weekend,353,367,96.2,Less than 6 Hours
+6117666160,25-04-2016,0,1497,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,26-04-2016,9543,2450,0,7,352,1077,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,27-04-2016,9411,2576,0,0,458,417,Moderate Activity,Low Very-Active,Weekday,542,557,97.3,More than 8 Hours
+6117666160,28-04-2016,3403,1879,0,0,141,758,Low Activity,Low Very-Active,Weekday,393,416,94.5,6-8 Hours
+6117666160,29-04-2016,9592,2560,0,0,461,479,Moderate Activity,Low Very-Active,Weekday,600,636,94.3,More than 8 Hours
+6117666160,30-04-2016,6987,2275,0,0,343,1040,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6117666160,01-05-2016,8915,2361,0,0,397,525,Moderate Activity,Low Very-Active,Weekend,507,575,88.2,More than 8 Hours
+6117666160,02-05-2016,4933,2044,0,0,236,1204,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,03-05-2016,0,1496,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,04-05-2016,2997,1902,0,0,156,1279,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6117666160,05-05-2016,9799,2636,0,0,487,479,Moderate Activity,Low Very-Active,Weekday,392,415,94.5,6-8 Hours
+6117666160,06-05-2016,3365,1838,0,0,133,673,Low Activity,Low Very-Active,Weekday,658,698,94.3,More than 8 Hours
+6117666160,07-05-2016,7336,2469,0,0,412,456,Moderate Activity,Low Very-Active,Weekend,498,507,98.2,More than 8 Hours
+6117666160,08-05-2016,7328,2250,0,0,318,517,Moderate Activity,Low Very-Active,Weekend,555,603,92,More than 8 Hours
+6117666160,09-05-2016,4477,1248,0,0,197,125,Low Activity,Low Very-Active,Weekday,492,522,94.3,More than 8 Hours
+6290855005,12-04-2016,4562,2560,0,0,199,1241,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,13-04-2016,7142,2905,0,0,350,1090,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,14-04-2016,7671,2952,0,0,363,1077,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,15-04-2016,9501,2896,0,0,328,1112,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,16-04-2016,8301,2783,0,0,258,1182,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,17-04-2016,7851,3171,31,12,225,1172,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,18-04-2016,6885,2766,0,0,271,1169,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,19-04-2016,7142,2839,0,0,321,1119,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,20-04-2016,6361,2701,0,0,258,1182,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,21-04-2016,0,2060,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,22-04-2016,6238,2796,0,0,302,1138,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,23-04-2016,0,2664,33,0,0,1407,Low Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,24-04-2016,5896,2703,0,0,258,1182,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,25-04-2016,7802,2771,8,3,249,1180,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,26-04-2016,0,2060,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,27-04-2016,5565,2743,0,0,287,1153,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,28-04-2016,5731,2687,0,0,255,1185,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,29-04-2016,0,2060,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,30-04-2016,6744,2843,0,0,324,1116,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,01-05-2016,9837,3327,8,95,282,1055,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,02-05-2016,6781,2725,0,0,268,1172,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,03-05-2016,6047,2671,0,0,240,1200,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,04-05-2016,5832,2718,0,0,272,1168,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,05-05-2016,6339,2682,0,0,239,1201,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,06-05-2016,6116,2806,0,0,305,1135,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,07-05-2016,5510,2613,0,0,227,1213,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,08-05-2016,7706,2712,0,0,251,1189,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6290855005,09-05-2016,6277,2175,0,0,264,800,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6290855005,10-05-2016,0,0,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,12-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,13-04-2016,4053,2400,17,18,85,1053,Low Activity,Moderate Very-Active,Weekday,235,260,90.4,Less than 6 Hours
+6775888955,14-04-2016,5162,2507,14,24,105,863,Moderate Activity,Moderate Very-Active,Weekday,423,441,95.9,6-8 Hours
+6775888955,15-04-2016,1282,2127,0,0,58,976,Low Activity,Low Very-Active,Weekday,391,406,96.3,6-8 Hours
+6775888955,16-04-2016,4732,2225,36,18,9,1377,Low Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,17-04-2016,2497,2067,5,24,19,1392,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,18-04-2016,8294,2798,30,31,146,1233,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,19-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,20-04-2016,10771,3727,70,113,178,1079,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,21-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,22-04-2016,637,1922,0,0,20,1420,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,23-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,24-04-2016,2153,2053,11,18,11,1400,Low Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,25-04-2016,6474,2484,33,13,92,1302,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,26-04-2016,7091,2584,42,30,47,1321,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,27-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,28-04-2016,703,1993,2,13,15,1410,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,29-04-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,30-04-2016,2503,2280,3,9,84,1344,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,01-05-2016,2487,2319,9,34,50,1347,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6775888955,02-05-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,03-05-2016,9,1843,0,0,1,1439,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,04-05-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,05-05-2016,0,1841,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,06-05-2016,4697,2496,12,35,75,1318,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+6775888955,07-05-2016,1967,1032,2,5,49,551,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+6962181067,12-04-2016,10199,1994,50,14,189,796,High Activity,High Very-Active,Weekday,366,387,94.6,6-8 Hours
+6962181067,13-04-2016,5652,1718,8,24,142,548,Moderate Activity,Low Very-Active,Weekday,630,679,92.8,More than 8 Hours
+6962181067,14-04-2016,1551,1466,0,0,86,862,Low Activity,Low Very-Active,Weekday,508,535,95,More than 8 Hours
+6962181067,15-04-2016,5563,1756,0,0,217,837,Moderate Activity,Low Very-Active,Weekday,370,386,95.9,6-8 Hours
+6962181067,16-04-2016,13217,2173,50,3,280,741,High Activity,High Very-Active,Weekend,357,366,97.5,Less than 6 Hours
+6962181067,17-04-2016,10145,2027,5,13,295,634,High Activity,Low Very-Active,Weekend,427,446,95.7,6-8 Hours
+6962181067,18-04-2016,11404,2039,13,42,238,689,High Activity,Moderate Very-Active,Weekday,442,458,96.5,6-8 Hours
+6962181067,19-04-2016,10742,2046,35,41,195,659,High Activity,High Very-Active,Weekday,476,535,89,6-8 Hours
+6962181067,20-04-2016,13928,2174,48,4,297,639,High Activity,High Very-Active,Weekday,418,424,98.6,6-8 Hours
+6962181067,21-04-2016,11835,2179,53,27,214,708,High Activity,High Very-Active,Weekday,451,457,98.7,6-8 Hours
+6962181067,22-04-2016,10725,2086,30,33,240,659,High Activity,High Very-Active,Weekday,425,435,97.7,6-8 Hours
+6962181067,23-04-2016,20031,2571,58,41,347,484,High Activity,High Very-Active,Weekend,528,546,96.7,More than 8 Hours
+6962181067,24-04-2016,5029,1705,0,0,199,720,Moderate Activity,Low Very-Active,Weekend,511,514,99.4,More than 8 Hours
+6962181067,25-04-2016,13239,2194,35,31,282,637,High Activity,High Very-Active,Weekday,400,415,96.4,6-8 Hours
+6962181067,26-04-2016,10433,2012,36,7,254,680,High Activity,High Very-Active,Weekday,441,446,98.9,6-8 Hours
+6962181067,27-04-2016,10320,2034,7,38,279,697,High Activity,Low Very-Active,Weekday,455,467,97.4,6-8 Hours
+6962181067,28-04-2016,12627,2182,38,8,288,621,High Activity,High Very-Active,Weekday,440,453,97.1,6-8 Hours
+6962181067,29-04-2016,10762,2254,12,15,369,645,High Activity,Moderate Very-Active,Weekday,433,447,96.9,6-8 Hours
+6962181067,30-04-2016,10081,2002,32,16,237,731,High Activity,High Very-Active,Weekend,422,424,99.5,6-8 Hours
+6962181067,01-05-2016,5454,1740,0,0,215,722,Moderate Activity,Low Very-Active,Weekend,411,426,96.5,6-8 Hours
+6962181067,02-05-2016,12912,2162,18,39,313,655,High Activity,Moderate Very-Active,Weekday,466,482,96.7,6-8 Hours
+6962181067,03-05-2016,12109,2072,21,36,267,654,High Activity,Moderate Very-Active,Weekday,394,418,94.3,6-8 Hours
+6962181067,04-05-2016,10147,2086,15,36,284,683,High Activity,Moderate Very-Active,Weekday,442,455,97.1,6-8 Hours
+6962181067,05-05-2016,10524,2066,14,22,305,591,High Activity,Moderate Very-Active,Weekday,467,491,95.1,6-8 Hours
+6962181067,06-05-2016,5908,1850,0,0,299,717,Moderate Activity,Low Very-Active,Weekday,443,462,95.9,6-8 Hours
+6962181067,07-05-2016,6815,1947,0,0,328,745,Moderate Activity,Low Very-Active,Weekend,298,334,89.2,Less than 6 Hours
+6962181067,08-05-2016,4188,1659,0,14,151,709,Low Activity,Low Very-Active,Weekend,541,569,95.1,More than 8 Hours
+6962181067,09-05-2016,12342,2105,43,21,231,607,High Activity,High Very-Active,Weekday,489,497,98.4,More than 8 Hours
+6962181067,10-05-2016,15448,2361,62,34,275,626,High Activity,High Very-Active,Weekday,469,481,97.5,6-8 Hours
+6962181067,11-05-2016,6722,1855,24,7,199,709,Moderate Activity,Moderate Very-Active,Weekday,452,480,94.2,6-8 Hours
+6962181067,12-05-2016,3587,928,0,8,105,127,Low Activity,Low Very-Active,Weekday,516,535,96.4,More than 8 Hours
+7007744171,12-04-2016,14172,2937,53,8,355,1024,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,13-04-2016,12862,2742,56,22,261,1101,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,14-04-2016,11179,2668,34,6,304,1096,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,15-04-2016,5273,2098,0,0,202,1238,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,16-04-2016,4631,2076,0,0,203,1155,Low Activity,Low Very-Active,Weekend,79,82,96.3,Less than 6 Hours
+7007744171,17-04-2016,8059,2383,0,0,305,1135,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7007744171,18-04-2016,14816,2832,48,31,284,1077,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,19-04-2016,14194,2812,53,17,304,1066,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,20-04-2016,15566,3096,60,33,347,1000,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,21-04-2016,13744,2763,30,34,327,1049,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,22-04-2016,15299,2889,64,50,261,1065,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,23-04-2016,8093,2284,2,25,223,1190,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7007744171,24-04-2016,11085,2667,0,0,419,1021,High Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7007744171,25-04-2016,18229,3055,51,24,379,986,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,26-04-2016,15090,2939,16,22,424,978,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,27-04-2016,13541,2830,50,12,337,1041,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,28-04-2016,15128,2836,16,16,401,1007,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,29-04-2016,20067,3180,55,42,382,961,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,30-04-2016,3761,2051,0,0,200,1240,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7007744171,01-05-2016,5600,2225,0,0,237,1142,Moderate Activity,Low Very-Active,Weekend,58,61,95.1,Less than 6 Hours
+7007744171,02-05-2016,13041,2642,64,14,250,1112,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,03-05-2016,14510,2976,58,31,330,1021,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,04-05-2016,0,1557,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,05-05-2016,15010,2933,53,23,317,1047,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,06-05-2016,11459,2553,44,13,247,1136,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7007744171,07-05-2016,0,120,0,0,0,111,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7086361926,12-04-2016,11317,2772,59,6,153,745,High Activity,High Very-Active,Weekday,514,525,97.9,More than 8 Hours
+7086361926,13-04-2016,5813,2516,31,26,155,744,Moderate Activity,High Very-Active,Weekday,451,465,97,6-8 Hours
+7086361926,14-04-2016,9123,2734,35,32,189,787,Moderate Activity,High Very-Active,Weekday,472,476,99.2,6-8 Hours
+7086361926,15-04-2016,8585,2395,30,21,139,864,Moderate Activity,High Very-Active,Weekday,377,386,97.7,6-8 Hours
+7086361926,16-04-2016,31,1635,0,0,3,1437,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7086361926,17-04-2016,0,1629,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7086361926,18-04-2016,9827,2743,61,51,114,1136,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7086361926,19-04-2016,10688,2944,67,69,124,671,High Activity,High Very-Active,Weekday,472,483,97.7,6-8 Hours
+7086361926,20-04-2016,14365,2997,87,13,145,797,High Activity,High Very-Active,Weekday,492,502,98,More than 8 Hours
+7086361926,21-04-2016,9469,2463,19,6,206,758,Moderate Activity,Moderate Very-Active,Weekday,390,411,94.9,6-8 Hours
+7086361926,22-04-2016,9753,2846,58,59,153,762,Moderate Activity,High Very-Active,Weekday,428,448,95.5,6-8 Hours
+7086361926,23-04-2016,2817,1965,0,0,90,1350,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+7086361926,24-04-2016,3520,2049,0,0,125,566,Low Activity,Low Very-Active,Weekend,681,704,96.7,More than 8 Hours
+7086361926,25-04-2016,10091,2752,69,39,129,706,High Activity,High Very-Active,Weekday,446,447,99.8,6-8 Hours
+7086361926,26-04-2016,10387,2781,70,33,132,726,High Activity,High Very-Active,Weekday,485,500,97,More than 8 Hours
+7086361926,27-04-2016,11107,2693,55,6,145,829,High Activity,High Very-Active,Weekday,469,479,97.9,6-8 Hours
+7086361926,28-04-2016,11584,2862,54,48,161,810,High Activity,High Very-Active,Weekday,354,367,96.5,Less than 6 Hours
+7086361926,29-04-2016,7881,2616,24,36,182,1198,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7086361926,30-04-2016,14560,2995,42,17,308,584,High Activity,High Very-Active,Weekend,485,489,99.2,More than 8 Hours
+7086361926,01-05-2016,12390,2730,30,15,258,685,High Activity,High Very-Active,Weekend,388,407,95.3,6-8 Hours
+7086361926,02-05-2016,10052,2754,66,26,139,737,High Activity,High Very-Active,Weekday,440,459,95.9,6-8 Hours
+7086361926,03-05-2016,10288,2754,57,36,152,761,High Activity,High Very-Active,Weekday,456,461,98.9,6-8 Hours
+7086361926,04-05-2016,10988,2655,45,12,135,843,High Activity,High Very-Active,Weekday,420,436,96.3,6-8 Hours
+7086361926,05-05-2016,8564,2386,24,14,149,1253,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7086361926,06-05-2016,12461,2924,84,35,154,834,High Activity,High Very-Active,Weekday,322,333,96.7,Less than 6 Hours
+7086361926,07-05-2016,12827,2739,20,42,209,621,High Activity,Moderate Very-Active,Weekend,530,548,96.7,More than 8 Hours
+7086361926,08-05-2016,10677,2534,32,27,147,695,High Activity,High Very-Active,Weekend,481,510,94.3,More than 8 Hours
+7086361926,09-05-2016,13566,2960,67,50,171,743,High Activity,High Very-Active,Weekday,427,438,97.5,6-8 Hours
+7086361926,10-05-2016,14433,2800,72,23,106,1182,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+7086361926,11-05-2016,9572,2735,57,40,128,757,Moderate Activity,High Very-Active,Weekday,451,463,97.4,6-8 Hours
+7086361926,12-05-2016,3789,1199,5,4,58,343,Low Activity,Low Very-Active,Weekday,444,457,97.2,6-8 Hours
+8053475328,12-04-2016,18060,3186,116,8,123,1193,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,13-04-2016,16433,3140,95,12,156,1177,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,14-04-2016,20159,3411,119,5,193,1123,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,15-04-2016,20669,3410,132,8,158,1142,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,16-04-2016,14549,2867,96,6,83,1255,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,17-04-2016,18827,3213,111,21,195,1113,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,18-04-2016,17076,3133,102,6,195,1137,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,19-04-2016,15929,3114,90,7,191,1152,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,20-04-2016,15108,3043,89,5,158,695,High Activity,High Very-Active,Weekday,486,493,98.6,More than 8 Hours
+8053475328,21-04-2016,16057,3103,100,6,170,1164,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,22-04-2016,10520,2655,60,3,117,1260,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,23-04-2016,22359,3554,125,14,223,741,High Activity,High Very-Active,Weekend,331,337,98.2,Less than 6 Hours
+8053475328,24-04-2016,22988,3577,129,33,182,1096,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,25-04-2016,20500,3403,118,9,209,1104,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,26-04-2016,12685,2846,68,5,185,1182,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,27-04-2016,12422,2852,60,10,183,1187,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,28-04-2016,15447,3062,90,9,153,1188,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,29-04-2016,12315,2794,58,8,159,1215,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,30-04-2016,7135,2408,27,1,131,1281,Moderate Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,01-05-2016,1170,1886,0,0,51,1389,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,02-05-2016,1969,1988,0,0,95,1345,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,03-05-2016,15484,3023,87,22,165,1166,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,04-05-2016,14581,2918,89,8,123,1220,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,05-05-2016,14990,2950,93,9,130,1208,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,06-05-2016,13953,2859,90,15,90,1245,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,07-05-2016,19769,3331,121,20,148,1076,High Activity,High Very-Active,Weekend,74,75,98.7,Less than 6 Hours
+8053475328,08-05-2016,22026,3589,125,14,228,1073,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8053475328,09-05-2016,12465,2765,66,12,148,1214,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,10-05-2016,14810,2926,96,10,115,1219,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,11-05-2016,12209,2809,60,7,184,1189,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8053475328,12-05-2016,4998,1505,28,4,39,839,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,12-04-2016,9033,2044,40,2,154,1244,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,13-04-2016,8053,1935,35,11,96,1298,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,14-04-2016,5234,1705,29,16,33,1362,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,15-04-2016,2672,1632,0,0,105,1335,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,16-04-2016,9256,1880,6,51,115,1268,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8253242879,17-04-2016,10204,2112,41,5,157,1237,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8253242879,18-04-2016,5151,1829,16,16,130,1278,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,19-04-2016,4212,1763,0,0,164,1276,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,20-04-2016,6466,1931,5,18,216,1201,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,21-04-2016,11268,2218,49,20,172,1199,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,22-04-2016,2824,1651,0,0,120,1320,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,23-04-2016,9282,2132,30,26,191,1193,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8253242879,24-04-2016,8905,1976,41,4,82,1313,Moderate Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8253242879,25-04-2016,6829,1909,7,54,118,1261,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,26-04-2016,4562,1813,19,14,108,1299,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,27-04-2016,10232,2008,45,5,104,1286,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,28-04-2016,2718,1580,11,16,20,1393,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,29-04-2016,6260,1854,16,14,136,1257,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8253242879,30-04-2016,0,0,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8378563200,12-04-2016,7626,3635,65,15,156,723,Moderate Activity,High Very-Active,Weekday,338,356,94.9,Less than 6 Hours
+8378563200,13-04-2016,12386,4079,116,14,169,680,High Activity,High Very-Active,Weekday,447,487,91.8,6-8 Hours
+8378563200,14-04-2016,13318,4163,123,21,174,699,High Activity,High Very-Active,Weekday,424,455,93.2,6-8 Hours
+8378563200,15-04-2016,14461,3666,60,23,190,729,High Activity,High Very-Active,Weekday,513,533,96.2,More than 8 Hours
+8378563200,16-04-2016,11207,3363,64,21,142,563,High Activity,High Very-Active,Weekend,611,689,88.7,More than 8 Hours
+8378563200,17-04-2016,2132,2572,0,0,93,599,Low Activity,Low Very-Active,Weekend,525,591,88.8,More than 8 Hours
+8378563200,18-04-2016,13630,4157,117,10,174,720,High Activity,High Very-Active,Weekday,398,451,88.2,6-8 Hours
+8378563200,19-04-2016,13070,4092,120,19,154,737,High Activity,High Very-Active,Weekday,387,421,91.9,6-8 Hours
+8378563200,20-04-2016,9388,3787,82,8,169,763,Moderate Activity,High Very-Active,Weekday,381,409,93.2,6-8 Hours
+8378563200,21-04-2016,15148,4236,137,16,145,677,High Activity,High Very-Active,Weekday,396,417,95,6-8 Hours
+8378563200,22-04-2016,12200,4044,113,12,159,769,High Activity,High Very-Active,Weekday,441,469,94,6-8 Hours
+8378563200,23-04-2016,5709,2908,19,10,136,740,Moderate Activity,Moderate Very-Active,Weekend,565,591,95.6,More than 8 Hours
+8378563200,24-04-2016,3703,2741,0,0,135,734,Low Activity,Low Very-Active,Weekend,458,492,93.1,6-8 Hours
+8378563200,25-04-2016,12405,4005,117,16,141,692,High Activity,High Very-Active,Weekday,388,402,96.5,6-8 Hours
+8378563200,26-04-2016,16208,3763,90,18,161,593,High Activity,High Very-Active,Weekday,550,584,94.2,More than 8 Hours
+8378563200,27-04-2016,7359,3061,4,4,192,676,Moderate Activity,Low Very-Active,Weekday,531,600,88.5,More than 8 Hours
+8378563200,28-04-2016,5417,2884,11,10,139,711,Moderate Activity,Moderate Very-Active,Weekday,506,556,91,More than 8 Hours
+8378563200,29-04-2016,6175,2982,3,7,172,767,Moderate Activity,Low Very-Active,Weekday,527,562,93.8,More than 8 Hours
+8378563200,30-04-2016,2946,2660,0,0,121,780,Low Activity,Low Very-Active,Weekend,468,555,84.3,6-8 Hours
+8378563200,01-05-2016,11419,3369,71,10,127,669,High Activity,High Very-Active,Weekend,475,539,88.1,6-8 Hours
+8378563200,02-05-2016,6064,3491,63,4,142,802,Moderate Activity,High Very-Active,Weekday,351,385,91.2,Less than 6 Hours
+8378563200,03-05-2016,8712,3784,71,20,195,822,Moderate Activity,High Very-Active,Weekday,405,429,94.4,6-8 Hours
+8378563200,04-05-2016,7875,3110,19,10,167,680,Moderate Activity,Moderate Very-Active,Weekday,441,477,92.5,6-8 Hours
+8378563200,05-05-2016,8567,3783,66,3,214,764,Moderate Activity,High Very-Active,Weekday,381,417,91.4,6-8 Hours
+8378563200,06-05-2016,7045,3644,74,5,166,831,Moderate Activity,High Very-Active,Weekday,323,355,91,Less than 6 Hours
+8378563200,07-05-2016,4468,2799,0,0,158,851,Low Activity,Low Very-Active,Weekend,459,513,89.5,6-8 Hours
+8378563200,08-05-2016,2943,2685,0,0,139,621,Low Activity,Low Very-Active,Weekend,545,606,89.9,More than 8 Hours
+8378563200,09-05-2016,8382,3721,71,13,171,772,Moderate Activity,High Very-Active,Weekday,359,399,90,Less than 6 Hours
+8378563200,10-05-2016,6582,3586,63,13,152,840,Moderate Activity,High Very-Active,Weekday,342,391,87.5,Less than 6 Hours
+8378563200,11-05-2016,9143,3788,72,10,184,763,Moderate Activity,High Very-Active,Weekday,368,387,95.1,6-8 Hours
+8378563200,12-05-2016,4561,1976,8,6,102,433,Low Activity,Low Very-Active,Weekday,496,546,90.8,More than 8 Hours
+8583815059,12-04-2016,5014,2650,0,7,196,1237,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,13-04-2016,5571,2654,2,23,163,1252,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,14-04-2016,3135,2443,0,0,134,1306,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,15-04-2016,3430,2505,0,0,65,1375,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,16-04-2016,5319,2693,0,0,0,1440,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,17-04-2016,3008,2439,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,18-04-2016,3864,2536,4,22,105,1309,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,19-04-2016,5697,2668,7,10,166,1257,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,20-04-2016,5273,2647,0,27,167,1246,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,21-04-2016,8538,2883,35,18,158,1229,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,22-04-2016,8687,2944,4,54,212,1170,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,23-04-2016,9423,3012,7,44,238,1151,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,24-04-2016,8286,2889,2,44,206,1188,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,25-04-2016,4503,2547,18,6,122,1294,Low Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,26-04-2016,10499,3093,1,91,214,1134,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,27-04-2016,12474,3142,77,5,129,1229,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,28-04-2016,6174,2757,0,28,203,1209,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,29-04-2016,15168,3513,46,67,258,1069,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,30-04-2016,10085,3164,2,28,317,1093,High Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,01-05-2016,4512,2596,10,2,117,1311,Low Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,02-05-2016,8469,2894,0,0,0,1440,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,03-05-2016,12015,3212,0,0,0,1440,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,04-05-2016,3588,2516,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,05-05-2016,12427,3266,0,0,70,1370,High Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,06-05-2016,5843,2683,2,22,166,1250,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,07-05-2016,6117,2810,0,0,250,1190,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,08-05-2016,9217,2940,3,72,182,1183,Moderate Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8583815059,09-05-2016,9877,2947,66,4,110,1260,Moderate Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,10-05-2016,8240,2846,9,43,162,1226,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,11-05-2016,8701,2804,5,71,177,1106,Moderate Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8583815059,12-05-2016,0,0,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,12-04-2016,2564,2044,0,0,116,831,Low Activity,Low Very-Active,Weekday,458,493,92.9,6-8 Hours
+8792009665,13-04-2016,1320,1934,0,0,82,806,Low Activity,Low Very-Active,Weekday,531,552,96.2,More than 8 Hours
+8792009665,14-04-2016,1219,1963,0,0,84,853,Low Activity,Low Very-Active,Weekday,486,503,96.6,More than 8 Hours
+8792009665,15-04-2016,2483,2009,0,0,126,937,Low Activity,Low Very-Active,Weekday,363,377,96.3,6-8 Hours
+8792009665,16-04-2016,244,1721,0,0,12,1428,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8792009665,17-04-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8792009665,18-04-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,19-04-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,20-04-2016,3147,2188,0,10,139,744,Low Activity,Low Very-Active,Weekday,528,547,96.5,More than 8 Hours
+8792009665,21-04-2016,144,1720,0,0,9,1431,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,22-04-2016,4068,2419,1,20,195,817,Low Activity,Low Very-Active,Weekday,391,407,96.1,6-8 Hours
+8792009665,23-04-2016,5245,2748,8,45,232,795,Moderate Activity,Low Very-Active,Weekend,339,360,94.2,Less than 6 Hours
+8792009665,24-04-2016,400,1799,3,8,19,1410,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8792009665,25-04-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,26-04-2016,1321,1928,0,0,80,1360,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,27-04-2016,1758,2067,0,0,112,900,Low Activity,Low Very-Active,Weekday,423,428,98.8,6-8 Hours
+8792009665,28-04-2016,6157,2780,0,0,310,714,Moderate Activity,Low Very-Active,Weekday,402,416,96.6,6-8 Hours
+8792009665,29-04-2016,8360,3101,6,14,380,634,Moderate Activity,Low Very-Active,Weekday,398,406,98,6-8 Hours
+8792009665,30-04-2016,7174,2896,10,20,301,749,Moderate Activity,Moderate Very-Active,Weekend,343,360,95.3,Less than 6 Hours
+8792009665,01-05-2016,1619,1962,0,0,79,834,Low Activity,Low Very-Active,Weekend,503,527,95.4,More than 8 Hours
+8792009665,02-05-2016,1831,2015,0,0,101,916,Low Activity,Low Very-Active,Weekday,415,423,98.1,6-8 Hours
+8792009665,03-05-2016,2421,2297,0,0,156,739,Low Activity,Low Very-Active,Weekday,516,545,94.7,More than 8 Hours
+8792009665,04-05-2016,2283,2067,0,0,129,848,Low Activity,Low Very-Active,Weekday,439,463,94.8,6-8 Hours
+8792009665,05-05-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,06-05-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,07-05-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8792009665,08-05-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8792009665,09-05-2016,0,1688,0,0,0,1440,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8792009665,10-05-2016,0,57,0,0,0,48,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,12-04-2016,23186,3921,85,7,312,1036,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,13-04-2016,15337,3566,108,18,216,1098,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,14-04-2016,21129,3793,68,13,298,1061,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,15-04-2016,13422,3934,106,1,281,1052,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,16-04-2016,29326,4547,94,29,429,888,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,17-04-2016,15118,3545,58,15,307,1060,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,18-04-2016,11423,2761,29,5,191,1215,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,19-04-2016,18785,3676,82,13,214,1131,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,20-04-2016,19948,3679,73,19,225,1123,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,21-04-2016,19377,3659,82,13,226,1119,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,22-04-2016,18258,3427,61,2,236,1141,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,23-04-2016,11200,3891,102,6,300,1032,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,24-04-2016,16674,3455,64,1,227,1148,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,25-04-2016,12986,3802,113,8,218,1101,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,26-04-2016,11101,2860,22,3,258,1157,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,27-04-2016,23629,3808,93,8,235,1104,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,28-04-2016,14890,3060,58,8,231,1143,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,29-04-2016,9733,2698,18,5,210,1207,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,30-04-2016,27745,4398,124,4,223,1089,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,01-05-2016,10930,2786,36,12,166,1226,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,02-05-2016,4790,2189,0,0,105,1335,Low Activity,Low Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,03-05-2016,10818,2817,19,3,229,1189,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,04-05-2016,18193,3477,66,8,212,1154,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,05-05-2016,14055,3052,67,15,188,1170,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,06-05-2016,21727,4015,96,17,232,1095,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,07-05-2016,12332,4142,105,28,271,1036,High Activity,High Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,08-05-2016,10686,2847,17,4,245,1174,High Activity,Moderate Very-Active,Weekend,NULL,NULL,NULL,More than 8 Hours
+8877689391,09-05-2016,20226,3710,73,19,217,1131,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,10-05-2016,10733,2832,18,11,224,1187,High Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,11-05-2016,21420,3832,88,12,213,1127,High Activity,High Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
+8877689391,12-05-2016,8064,1849,23,1,137,770,Moderate Activity,Moderate Very-Active,Weekday,NULL,NULL,NULL,More than 8 Hours
